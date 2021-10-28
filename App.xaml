@@ -1,0 +1,12 @@
+﻿<Application x:Class="tomek_cswpf_notes.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:local="clr-namespace:tomek_cswpf_notes">
+
+    <!--Note: Taking the line below out, will be instantiating the default Demo app through App.cs instead -->
+    <!--StartupUri="MainWindow.xaml"-->
+
+    <Application.Resources>
+         
+    </Application.Resources>
+</Application>
